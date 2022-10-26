@@ -1,10 +1,3 @@
-//============================================================================
-// Name        : game.cpp
-// Author      : Hassan Mustafa
-// Version     :
-// Copyright   : (c) Reserved
-// Description : Basic 2D game of Dodge 'Em...
-//============================================================================
 
 #ifndef DODGE_CPP_
 #define DODGE_CPP_
